@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "Random String Messages KZ, a package management project with npm.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:JaciellKZ/random-str-msg-kz.git"
   },
   "keywords": [],
   "author": "Kevin Zambrano <kevinzambranocastro@gmail.com>",
